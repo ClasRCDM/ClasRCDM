@@ -12,6 +12,9 @@
   <img alt="Clas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Clas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </aside><hr>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClasRCDM&layout=compact)](https://github.com/ClasRCDM/github-readme-stats)
+
 <footer>
   <h2>To contact me:</h2>
   <a href="https://www.linkedin.com/in/clasrcdm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="next"></a> 
