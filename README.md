@@ -1,8 +1,8 @@
 # 🤓 Hi, I’m [_**@ClasRCDM**_](https://github.com/ClasRCDM)
 <main>
   <a href="https://github.com/ClasRCDM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClasRCDM&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClasRCDM&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ClasRCDM&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClasRCDM&layout=compact&langs_count=7&theme=highcontrast"/>
 </main>
   
 ## languages:
