@@ -1,5 +1,5 @@
-# 🤓 Hi, I’m [_**@ClasRCDM**_](https://github.com/ClasRCDM) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Twitter Follow](https://img.shields.io/twitter/follow/RaphaelCalixtDM?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RaphaelCalixtDM)
+# 🤓 Hi, I’m [_**@ClasRCDM**_](https://github.com/ClasRCDM) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+[![Twitter Follow](https://img.shields.io/twitter/follow/RaphaelCalixtDM?color=FF0000&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RaphaelCalixtDM)
 <main>
   <a href="https://github.com/ClasRCDM">
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ClasRCDM&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   <img alt="Clas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </aside><hr>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClasRCDM&layout=compact)](https://github.com/ClasRCDM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClasRCDM&layout=compact&theme=highcontrast)](https://github.com/ClasRCDM/github-readme-stats)
 
 <footer>
   <h2>To contact me:</h2>
