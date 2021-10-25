@@ -24,8 +24,8 @@ ___________________________________________________________________|
 ```
 
 <main>
-  <a href="https://github.com/clasrcdm/github-readme-stats"><img alt="Clas .R.C.D.M. Github Stats" src="https://github-readme-stats.vercel.app/api?username=ClasRCDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/clasrcdm/github-readme-stats"><img alt="Clas .R.C.D.M. Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clasrcdm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/clasrcdm/github-readme-stats"><img alt="Clas .R.C.D.M. Github Stats" src="https://github-readme-stats.vercel.app/api?username=ClasRCDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="420"/></a>
+  <a href="https://github.com/clasrcdm/github-readme-stats"><img alt="Clas .R.C.D.M. Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clasrcdm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="420"/></a>
 </main><hr>
 
 ## 🚀 Languages and Tools:
