@@ -44,6 +44,9 @@ ___________________________________________________________________|
 <p align="left">  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
+<p align="left"> 
+    <a href="https://go.dev/" target="_blank"> <img src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2019/12/13122056/golang-3.png"/> </a> 
+</p>
 
 <hr>
 
