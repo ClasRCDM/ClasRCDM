@@ -49,7 +49,7 @@ ___________________________________________________________________|
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 <p align="left"> 
-    <a href="https://go.dev/" target="_blank"> <img src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2019/12/13122056/golang-3.png"/ height="45"> </a> 
+    <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://imgs.search.brave.com/y7zltsg2UtP5oChaxi4lWov8zyjnS6reCOmyEEokRjI/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzI2/OTkvUE5HLzUxMi9y/dWJ5X2xhbmdfbG9n/b19pY29uXzE3MDc3/MC5wbmc"/ height="45"> </a> 
 </p>
 
 <hr>
