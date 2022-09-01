@@ -41,6 +41,11 @@ ___________________________________________________________________|
     <a href="https://www.pygame.org/news" target="_blank"> <img src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67"/ height="50" width="120"> </a>
   <a href="https://www.pygame.org/news" target="_blank"> <img src="https://api.arcade.academy/en/latest/_images/arcade-logo.svg"/ height="45"> </a>
 </p>
+<p align="left"> 
+    <a href="https://lua.org/" target="_blank"> <img src="https://www.lua.org/images/luaa.gif"/> </a>
+    <a href="https://www.lua.org/news.html" target="_blank"> <img src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67"/ height="50" width="120"> </a>
+  <a href="https://solar2d.com/" target="_blank"> <img src="https://solar2d.com/images/logo-banner.svg"/ height="45"> </a>
+</p>
 <p align="left">  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
