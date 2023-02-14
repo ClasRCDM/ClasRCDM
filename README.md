@@ -1,6 +1,6 @@
 <div align="center"><img src="imgs/Title_GitHub.png" width=100%></div><br>
 
-#  _______________________🤓 Hi, I’m [_**@ClasRCDM**_](https://github.com/ClasRCDM) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">  ________________________
+#  _____________________🤓 Hi, I’m [_**@ClasRCDM**_](https://github.com/ClasRCDM) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">  ________________________
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Twitter Follow](https://img.shields.io/twitter/follow/RaphaelCalixtDM?color=FF0000&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RaphaelCalixtDM)
 <a href="https://github.com/ClasRCDM?tab=followers"><img src="https://img.shields.io/github/followers/ClasRCDM?label=Followers&style=social" alt="GitHub Badge"></a>
 
