@@ -37,7 +37,7 @@
 		<summary>🦚 About Me!</summary><br>
 		<img align='left' src="imgs/EUUUmini.png" style="margin: 20px" width=200px>
 
-I'm a Python developer with over 6 years of experience developing Bots | APIs | Games | automations > scripts and libraries.
+I'm a Python | Lua developer with over 6 years of experience developing Bots | APIs | Games | automations > scripts and libraries.
 
 - 🌱 I’m currently learning Nim, GDScript, Ruby and Rust!
 - 💬 Ask me about anything related to Python and Lua.
