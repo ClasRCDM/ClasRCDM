@@ -1,12 +1,13 @@
 <div align="center"><img src="imgs/Title_GitHub.png" width=100%></div><br>
-
+<main align="left">
 <h1 align="center">
 	<a href="https://github.com/ClasRCDM">@ClasRCDM</a>.
 	____🤓 Hi, I’m [_**@ClasRCDM**_]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">  ____
 </h1>
-<main>
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://github.com/clasrcdm/github-readme-stats"><img alt="Clas .R.C.D.M. Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clasrcdm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="600" height="200"/></a>
-</main>
+<a href="https://github.com/clasrcdm/github-readme-stats">
+<img alt="Clas .R.C.D.M. Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clasrcdm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="600" height="300"/>
+</a>
+
 <hr>
 
 <div style="display: flex">
@@ -32,6 +33,7 @@ I'm a Python | Lua developer with over 6 years of experience developing Bots | A
 
 </details>
 </div>
+</main>
 <hr>
 <footer>
   <h3 align="center"><b>🔗 Connect with me:</b></h3><br>
