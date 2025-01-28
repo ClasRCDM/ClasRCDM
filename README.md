@@ -1,36 +1,10 @@
 <div align="center"><img src="imgs/Title_GitHub.png" width=100%></div><br>
 
 #  _______________________🤓 Hi, I’m [_**@ClasRCDM**_](https://github.com/ClasRCDM) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">  ____________________
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Twitter Follow](https://img.shields.io/twitter/follow/RaphaelCalixtDM?color=FF0000&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=RaphaelCalixtDM)
-<a href="https://github.com/ClasRCDM?tab=followers"><img src="https://img.shields.io/github/followers/ClasRCDM?label=Followers&style=social" alt="GitHub Badge"></a>
-
-```
-^                     \\\\\\\                                ____________                                                    ^
-|                   \\\\\\\\\\\\                           ▕╮╭┻┻╮╭┻┻╮╭▕╮╲             ︵　　　  ︵                          |
-|                  \\\\\\\\\\\\\\\                         ▕╯┃╭╮┃┃╭╮┃╰▕╯╭▏         (　　╲　  /　 /                         |
-|     ,|           |C>   // )\\\\|                         ▕╭┻┻┻┛┗┻┻┛ ╰▏ ▏          ╲　　 ╲/　　/                          |
-|  ,','|          /    || ,'/////|                         ▕╰━━━┓┈┈┈╭╮▕╭╮▏           ╲　　 ╲  /                            |
-|,','  |         (,    ||   /////                          ▕╭╮╰┳┳┳┳╯╰╯▕╰╯▏          ╭ ͡　╲　　　╲                           |
-||| = =|          \\  ||||//''''|                          ▕╰╯┈┗┛┗┛┈╭╮▕╮┈         ╭ ͡　╲　　╲　　ﾉ                           |
-|||    |           |||||||     _|                            =============                                                   |
-||| -- |______      `````\      \                                                                                            |
-|||    |     ,|_________/        \___________________________________________________________________________________________| 
-|||  ,'    ,' |        /          |                                                                                          |
-|||,'    ,'   |       |         \  |                            _____     _____   _____    __  __                            |
-||/    ,'     |      /           | |                           |  __ \   / ____| |  __ \  |  \/  |                           |
-|_____________|      |      |    | |                           | |__) | | |      | |  | | | \  / |                           |
-|       |            |      |    | |                           |  _  /  | |      | |  | | | |\/| |                           |
-|       |        ____|_____/    /  |                           | | \ \  | |____  | |__| | | |  | |                           |
-|       |    __/ |             /   |                           |_|  \_\  \_____| |_____/  |_|  |_|                           |
-|_______|   ////_/-------------/   |                                                                                         |
-|____________________________________________________________________________________________________________________________|
-```
-
 <main>
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://github.com/clasrcdm/github-readme-stats"><img alt="Clas .R.C.D.M. Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clasrcdm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="600" height="200"/></a>
 </main>
 <hr>
-<div align="center"><h2><b>📝 Summary of what I do:</b></h3></div>
 
 <div style="display: flex">
 	<details>
@@ -58,10 +32,8 @@ I'm a Python | Lua developer with over 6 years of experience developing Bots | A
 <hr>
 <footer>
   <h3 align="center"><b>🔗 Connect with me:</b></h3><br>
-  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎<a href="https://www.linkedin.com/in/clasrcdm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="next"></a> 
+  ‎<a href="https://www.linkedin.com/in/clasrcdm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="next"></a> 
   <a href = "mailto:raphaelcalixto2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="next"></a>
 </footer>
 
-<div align="center"><img src="imgs/Below_GitHub.png" width=100%></div>
 <img alt='analytics' src='https://profile-counter.glitch.me/ClasRCDM/count.svg' width='0px'>
-
